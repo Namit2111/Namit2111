@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Machine learning**
 
-- 👨‍💻 My portfolio [https://portfolio-ten-chi-56.vercel.app/](https://portfolio-ten-chi-56.vercel.app/)
+- 👨‍💻 My portfolio [Portfolio](https://rb.gy/8wcvvt)
 
 - 💬 Ask me about **Python , Backend and automation**
 
