@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Namit Jain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt = "Coding" width ="400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-- 🔭 I’m currently working on **developing new skills**
+- 🔭 I’m currently working on developing new skills
 
 - 🌱 I’m currently learning **React, Machine learning**
 
-- 👨‍💻 My portfolio [Portfolio](https://rb.gy/8wcvvt)
+- 👨‍💻 My portfolio [Portfolio](https://namitjain.com)
 
 - 💬 Ask me about **Python , Backend and automation**
 
 - 📫 How to reach me **namitjain2111@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-ten-chi-56.vercel.app/static/images/Namit_Jain.pdf](https://portfolio-ten-chi-56.vercel.app/static/images/Namit_Jain.pdf)
+- 📄 Know about my experiences [Resume](https://www.namitjain.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
