@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namit2111&show_icons=true&locale=en" alt="namit2111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namit2111&" alt="namit2111" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=namit2111" alt="namit2111" /></p>
